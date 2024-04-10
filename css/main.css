@@ -11003,7 +11003,8 @@ body {
 }
 
 .vp-hero-section {
-    background-image: url("../img/hero-s-decor.png"), url("../img/hero-photo.png"), url("../img/hero-s-bg.png");
+    /*background-image: url("../img/hero-s-decor.png"), url("../img/hero-photo.png"), url("../img/hero-s-bg.png");*/
+    background-image: url("../img/hero-s-decor.png"), url("../img/hero-photo-verba.png"), url("../img/hero-s-bg.png");
     background-repeat: no-repeat;
     background-position: top right, top 6px right 32px, top center
 }
@@ -11659,7 +11660,8 @@ body {
     }
 
     .vp-hero-section {
-        background-image: url("../img/hero-s-decor.png"), url("../img/hero-photo.png"), url("../img/mob-hero-bg.png");
+        /*background-image: url("../img/hero-s-decor.png"), url("../img/hero-photo.png"), url("../img/mob-hero-bg.png");*/
+        background-image: url("../img/hero-s-decor.png"), url("../img/hero-photo-verba.png"), url("../img/hero-s-bg.png");
         background-position: top right, bottom -290px center, top center;
         background-size: auto, 90% auto, cover
     }
